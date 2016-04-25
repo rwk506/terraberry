@@ -20,7 +20,7 @@ This development is brought to you by the first place finish terraberry team via
 [Other Information](#Other)<br />
 
 
-[![Twitter](<img src="https://github.com/rwk506/terraberry/blob/master/images/twitterlogo.png" width="48">)](https://twitter.com/terraberryapp)
+<img src="https://github.com/rwk506/terraberry/blob/master/images/twitterlogo.png" alt="alt text" width="50" height="50">
 
 [![Twitter](https://github.com/rwk506/terraberry/blob/master/images/twitterlogo.png | width=100)](https://twitter.com/terraberryapp)
 [![Facebook](https://github.com/rwk506/terraberry/blob/master/images/FBlogo.png | width=100)](https://facebook.com/terraberryapp)
