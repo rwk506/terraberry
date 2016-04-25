@@ -18,12 +18,12 @@ This development is brought to you by the first place finish terraberry team via
 [Resources](#Resources)<br />
 [Dependencies](#Deps)<br />
 [Other Information](#Other)<br />
-<br /><br />
 
 [![Twitter](https://github.com/rwk506/terraberry/blob/master/images/twitterlogo.png)](https://twitter.com/terraberryapp)
 [![Facebook](https://github.com/rwk506/terraberry/blob/master/images/FBlogo.png)](https://facebook.com/terraberryapp)
 [![Gmail](https://github.com/rwk506/terraberry/blob/master/images/inboxlogo.png)](mailto:terraberry@gmail.com?subject=terraberry)
 
+<br /><br />
 
 
 
