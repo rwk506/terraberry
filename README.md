@@ -1,7 +1,7 @@
 # terraberry
 
 ================================
-![terraberry](https://github.com/rwk506/terraberry/images/logo.png)
+![terraberry](https://github.com/rwk506/terraberry/blob/master/images/logo.png)
 
 <h3>Defending the health of the Earth one conscientious choice at a time.</h3>
 
