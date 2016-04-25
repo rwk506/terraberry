@@ -50,11 +50,18 @@ The application will be able to read the barcode of an item, whether food or hou
 <a name="Example"/>
 <h4>Example</h4>
 
-Our android app will be available for download, and on startup will look like the middle image below. 
+Our android app will be available for download on the play store, with the icon seen in the left image below. The startup is shown in the middle image below, with immediate access to the bar code seen on right.
 
 <img src="https://github.com/rwk506/terraberry/blob/master/images/start_screen.png" alt="terraberry Start Screen" width=800>
 
-<img src="https://github.com/rwk506/terraberry/blob/master/images/triclosan_home.png" alt="Triclosan Home" width=300> <img src="https://github.com/rwk506/terraberry/blob/master/images/results_clorox.png" alt="Clorox terraberry Results" width=300>
+Once scanned, our app takes the barcode, uses the UPC to find the product name and ingredients, and checks whether materials that can devastate the environment are present. The results are shown to the use, as seen below for Clorox Anywhere Hard Surface Spray (left) and Cheez Its (right).
+
+<img src="https://github.com/rwk506/terraberry/blob/master/images/results_clorox.png" alt="Clorox terraberry Results" width=300>
+
+<img src="https://github.com/rwk506/terraberry/blob/master/images/results_clorox.png" alt="Clorox terraberry Results" width=300>
+
+At the bottom of the screen, the user has easy access to keep on scanning!
+
 
 
 
@@ -72,6 +79,7 @@ Our android app will be available for download, and on startup will look like th
 The collection of materials such as silicates and palm oil are damaging to ecological systems, affecting habitats of endangered species as well as contributing in the decline of air and water quality across the globe. 
 
 
+<img src="https://github.com/rwk506/terraberry/blob/master/images/triclosan_home.png" alt="Triclosan Home" width=300>
 
 
 
