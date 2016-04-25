@@ -52,11 +52,12 @@ The application will be able to read the barcode of an item, whether food or hou
 
 Our android app will be available for download, and on startup will look like the middle image below. 
 
-![terraberry Start Screen](https://github.com/rwk506/terraberry/blob/master/images/start_screen.png | width=100)
+<img src="https://github.com/rwk506/terraberry/blob/master/images/start_screen.png" alt="terraberry Start Screen" width=300>
 
-![Triclosan Home](https://github.com/rwk506/terraberry/blob/master/images/triclosan_home.png | width=100)
+<img src="https://github.com/rwk506/terraberry/blob/master/images/triclosan_home.png" alt="Triclosan Home" width=300>
 
-![Clorox terraberry Results](https://github.com/rwk506/terraberry/blob/master/images/results_clorox.png | width=100)
+<img src="https://github.com/rwk506/terraberry/blob/master/images/results_clorox.png" alt="Clorox terraberry Results" width=300>
+
 
 
 
