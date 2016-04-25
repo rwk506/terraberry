@@ -1,6 +1,7 @@
 # terraberry
 
 ================================
+![terraberry](https://github.com/rwk506/terraberry/images/logo.png)
 
 <h3>Defending the health of the Earth one conscientious choice at a time.</h3>
 
@@ -62,12 +63,11 @@ The primary Python scripts included is **HackHTML.py**, where the primary functi
 
 The files included are in this repository are:
 
-- **HackHTML.py**: 
-- **HouseholdDB.txt**: 
-- **License.md**: 
-- **oils.txt**: 
-- **silicates.txt**: 
-- **triclosan.txt**: 
+- **HackHTML.py**: primary code that does searching and cross-correlation of databases/ingredients
+- **HouseholdDB.txt**: list of IDs for household items in NIH/NLM library
+- **oils.txt**: list of palm oil aliases and derivates
+- **silicates.txt**: list of silicate aliases and derivates
+- **triclosan.txt**: list of triclosan aliases and derivatives
 
 
 If the user has Python and the necessary packages installed, no further installation should be required to run the code. If scripted, code may be run from outside Python with the command-line call 'python example.py' (where example is the name of the script). If inside Python, the functions lookup\_barcode() may be called following importing the necessary packages and:
@@ -86,13 +86,13 @@ If the user has Python and the necessary packages installed, no further installa
 <a name="Resources"/>
 <h4>Resources</h4>
 The following websites and databases were used in this project:
-[Android Studio](http://developer.android.com/tools/studio/index.html)
-[Android Barcode Reader](https://github.com/zxing/zxing)
-[Environmental Working Group](http://www.ewg.org/)
-[US Department of Health and Human Services](https://householdproducts.nlm.nih.gov)
-[UPC Lookup Database](http://www.upcitemdb.com/)
-[NASA Worldview](https://worldview.earthdata.nasa.gov/)
-[World Wildlife Federation](http://www.worldwildlife.org/)
+[Android Studio](http://developer.android.com/tools/studio/index.html)<br />
+[Android Barcode Reader](https://github.com/zxing/zxing)<br />
+[Environmental Working Group](http://www.ewg.org/)<br />
+[US Department of Health and Human Services](https://householdproducts.nlm.nih.gov)<br />
+[UPC Lookup Database](http://www.upcitemdb.com/)<br />
+[NASA Worldview](https://worldview.earthdata.nasa.gov/)<br />
+[World Wildlife Federation](http://www.worldwildlife.org/)<br />
 
 
 
