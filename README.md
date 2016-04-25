@@ -20,9 +20,9 @@ This development is brought to you by the first place finish terraberry team via
 [Other Information](#Other)<br />
 
 
-<img src="https://github.com/rwk506/terraberry/blob/master/images/twitterlogo.png" alt="Twitter" width="50" height="50">
-<img src="https://github.com/rwk506/terraberry/blob/master/images/FBlogo.png" alt="Facebook" width="50" height="50">
-<img src="https://github.com/rwk506/terraberry/blob/master/images/inboxlogo.png" alt="Gmail" width="60" height="55">
+<img url="https://twitter.com/terraberryapp" src="https://github.com/rwk506/terraberry/blob/master/images/twitterlogo.png" alt="Twitter" width="50" height="50">
+<img url="https://facebook.com/terraberryapp" src="https://github.com/rwk506/terraberry/blob/master/images/FBlogo.png" alt="Facebook" width="50" height="50">
+<img url="mailto:terraberry@gmail.com?subject=terraberry" src="https://github.com/rwk506/terraberry/blob/master/images/inboxlogo.png" alt="Gmail" width="50" height="50">
 
 <br /><br />
 
