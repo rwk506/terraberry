@@ -2,7 +2,7 @@
 
 <h3>Defending the health of the Earth one conscientious choice at a time.</h3>
 
-Human-powered destruction of the Earth will continue to ravage our planet -- unless we take more steps to stop it. terraberry enable people to make better choices conveniently and conscienciously in their daily lives to defend and promote a healthier Earth, EVERY purchase, EVERY day.
+Human-powered destruction of the Earth will continue to ravage our planet -- unless we take more steps to stop it. terraberry enables people to make better choices conveniently and conscienciously in their daily lives to defend and promote a healthier Earth - EVERY purchase, EVERY day.
 
 The code presented here is the python backend of the terraberry application, which facilitates sustainable and habitual lifestyle choices to improve the health of the Earth. terraberry allows users to scan the barcode of an item in store, determine if ingredients are harmful to the environment, and provides consumers with the ability to make choices to reduce the detrimental impact on the Earth through their everyday purchases.
 
@@ -12,6 +12,7 @@ This development is brought to you by the first place finish terraberry team via
 
 <h4>Table of Contents</h4>
 [Summary](#Summary)<br />
+[Example](#Example)<br />
 [Environmental Impact](#Impact)<br />
 [Documentation](#Docs)<br />
 [Resources](#Resources)<br />
@@ -19,13 +20,39 @@ This development is brought to you by the first place finish terraberry team via
 [Other Information](#Other)<br />
 <br /><br />
 
+[![Twitter](https://github.com/rwk506/terraberry/blob/master/images/twitterlogo.png)](https://twitter.com/terraberryapp)
+[![Facebook](https://github.com/rwk506/terraberry/blob/master/images/FBlogo.png)](https://facebook.com/terraberryapp)
+[![Gmail](https://github.com/rwk506/terraberry/blob/master/images/inboxlogo.png)](mailto:terraberry@gmail.com?subject=terraberry)
+
+
+
 
 <a name="Summary"/>
 <h4>Summary</h4>
 
-Our project enables citizens to use their smartphones when making a purchase to determine whether harmful materials are present in a product. Users can then make informed choices about the products they are buying - EVERY purchase EVERY day, while educating themselves about the devastating effects of materials like palm oil, silicates, and triclosan on the well-being of the Earth.
+Our project enables citizens to use their smartphones when making a purchase to determine whether harmful materials are present in a product. On a daily basis, users can conveniently make informed choices about the products they are buying, while educating themselves about the devastating effects of materials like palm oil, silicates, and triclosan on the well-being of the Earth.
 
-The application will be able to read the barcode of an item, whether food or household. While in a store, a user can whip out their phone, scan an item they are interested in purchasing, and our app informs the user whether the harmful ingredients of palm oil, silicates, or triclosan are present in the item. We also incorporate an informative component to educate users on the world-wide effects of these damaging chemicals. Our product will foster awareness and grant consumers the opportunity to make a conscientious choice about how their purchases affect the environment.
+The application will be able to read the barcode of an item, whether food or household. While in a store, a user can whip out their phone, scan an item they are interested in purchasing, and our app informs the user whether the harmful ingredients of palm oil, silicates, or triclosan are present in the item. We also incorporate an informative component to educate users on the world-wide effects of these damaging ingredients. Our product will foster awareness and grant consumers the opportunity to make a conscientious choice about how their purchases affect the environment.
+
+
+
+
+<br /> <br /><br />
+
+<a name="Example"/>
+<h4>Example</h4>
+
+Our android app will be available for download, and on startup will look like the middle image below. 
+
+![terraberry Start Screen](https://github.com/rwk506/terraberry/blob/master/images/start_screen.png | width=100)
+
+![Triclosan Home](https://github.com/rwk506/terraberry/blob/master/images/triclosan_home.png | width=100)
+
+![Clorox terraberry Results](https://github.com/rwk506/terraberry/blob/master/images/results_clorox.png | width=100)
+
+
+
+
 
 
 
@@ -35,7 +62,7 @@ The application will be able to read the barcode of an item, whether food or hou
 <a name="Impact"/>
 <h4>Environmental Impact</h4>
 
-The collection of materials such as silicates and palm oil are damaging to ecological systems, affecting habitats of endangered species as well as contributing in the decline of air and water quality across the globe.
+The collection of materials such as silicates and palm oil are damaging to ecological systems, affecting habitats of endangered species as well as contributing in the decline of air and water quality across the globe. 
 
 
 
@@ -112,5 +139,6 @@ Compatible with iPython Notebook (use %run [name]).
 
 Contributors: RWK, TDM, KA, WM <br />
 Contact: May be made through GitHub. <br />
+<br />
 
 
