@@ -19,9 +19,9 @@ This development is brought to you by the first place finish terraberry team via
 [Dependencies](#Deps)<br />
 [Other Information](#Other)<br />
 
-[![Twitter](https://github.com/rwk506/terraberry/blob/master/images/twitterlogo.png)](https://twitter.com/terraberryapp)
-[![Facebook](https://github.com/rwk506/terraberry/blob/master/images/FBlogo.png)](https://facebook.com/terraberryapp)
-[![Gmail](https://github.com/rwk506/terraberry/blob/master/images/inboxlogo.png)](mailto:terraberry@gmail.com?subject=terraberry)
+[![Twitter](https://github.com/rwk506/terraberry/blob/master/images/twitterlogo.png | width=30)](https://twitter.com/terraberryapp)
+[![Facebook](https://github.com/rwk506/terraberry/blob/master/images/FBlogo.png | width=30)](https://facebook.com/terraberryapp)
+[![Gmail](https://github.com/rwk506/terraberry/blob/master/images/inboxlogo.png | width=30)](mailto:terraberry@gmail.com?subject=terraberry)
 
 <br /><br />
 
