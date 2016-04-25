@@ -23,10 +23,13 @@ This development is brought to you by the first place finish terraberry team via
 <a href="https://twitter.com/terraberryapp">
    <img src="https://github.com/rwk506/terraberry/blob/master/images/twitterlogo.png" alt="Twitter" width="50" height="50">
 </a>
+<a href="https://facebook.com/terraberryapp">
+   <img src="https://github.com/rwk506/terraberry/blob/master/images/FBlogo.png" alt="Facebook" width="50" height="50">
+</a>
+<a href="mailto:terraberry@gmail.com?subject=terraberry">
+   <img src="https://github.com/rwk506/terraberry/blob/master/images/inboxlogo.png" alt="Email" width="50" height="50">
+</a>
 
-<img src="https://github.com/rwk506/terraberry/blob/master/images/twitterlogo.png" href="https://twitter.com/terraberryapp" alt="Twitter" width="50" height="50">
-<img href="https://facebook.com/terraberryapp" src="https://github.com/rwk506/terraberry/blob/master/images/FBlogo.png" alt="Facebook" width="50" height="50">
-<img href="mailto:terraberry@gmail.com?subject=terraberry" src="https://github.com/rwk506/terraberry/blob/master/images/inboxlogo.png" alt="Gmail" width="50" height="50">
 
 <br /><br />
 
