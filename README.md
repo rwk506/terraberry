@@ -20,6 +20,9 @@ This development is brought to you by the first place finish terraberry team via
 [Other Information](#Other)<br />
 
 
+<a href="http://meta.stackoverflow.com/users/44330/jason-s">
+   <img src="http://www.gravatar.com/avatar/dd5a7ef1476fb01998a215b1642dfd07?s=128&d=identicon&r=PG">
+</a>
 
 <img src="https://github.com/rwk506/terraberry/blob/master/images/twitterlogo.png" href="https://twitter.com/terraberryapp" alt="Twitter" width="50" height="50">
 <img href="https://facebook.com/terraberryapp" src="https://github.com/rwk506/terraberry/blob/master/images/FBlogo.png" alt="Facebook" width="50" height="50">
