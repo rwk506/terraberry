@@ -85,7 +85,7 @@ The collection of materials such as silicates, palm oil, and triclosan are damag
 
 
 <a name="Palm"/>
-<h5>Documentation</h5>
+<h5>Palm Oil</h5>
 
 <img src="https://github.com/rwk506/terraberry/blob/master/images/palmoil_home_full.jpeg" alt="Palm Oil Home" width=800>
 
@@ -101,27 +101,27 @@ The collection of materials such as silicates, palm oil, and triclosan are damag
 
 
 <a name="Sili"/>
-<h5>Documentation</h5>
+<h5>Silicates</h5>
 
 (In progress...)
 
 
 <a name="Tri"/>
-<h5>Documentation</h5>
+<h5>Triclosan</h5>
 
 <img src="https://github.com/rwk506/terraberry/blob/master/images/triclosan_home.png" alt="Triclosan Home" width=300>
 
 
 
 <a name="Irrad"/>
-<h5>Documentation</h5>
+<h5>Irradiated Materials</h5>
 
 (In progress...)
 
 
 
 <a name="Additives"/>
-<h5>Documentation</h5>
+<h5>Additives</h5>
 
 (In progress...)
 
