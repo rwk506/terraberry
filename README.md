@@ -158,6 +158,7 @@ Compatible with iPython Notebook (use %run [name]).
 
 Contributors: RWK, TDM, KA, WM <br />
 Contact: May be made through GitHub. <br />
-<br />
+About the creators: We are a group of PhD Astro students at the University of Florida. We look at all sorts of stars and galaxies in the Universe across space and time. But, we know that nothing is as important as our Earth. We are passionate about improving the well-being of our planet and providing people the power to make everyday choices to make the world cleaner and healthier.
+<br /><br />
 
 
