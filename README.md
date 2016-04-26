@@ -61,7 +61,7 @@ Once scanned, our app takes the barcode, uses the UPC to find the product name a
 At the bottom of the screen, the user has easy access to keep on scanning!
 
 
-
+Our infographics present facts for the consumer to interpret. Whenever possible, we include interactive data from NASA satellites. Our goal is to engage the consumer as much as possible so that they can make the most educated choices while purchasing products.
 
 
 
@@ -74,11 +74,18 @@ At the bottom of the screen, the user has easy access to keep on scanning!
 <a name="Impact"/>
 <h4>Environmental Impact</h4>
 
+[Palm Oil](#Palm)<br />
+[Silicates](#Sili)<br />
+[Triclosan](#Tri)<br />
+[Irradiated Materials](#Irrad)<br />
+[Additives](#Additives)<br />
+
 The collection of materials such as silicates, palm oil, and triclosan are damaging to ecological systems, affecting habitats of endangered species as well as contributing in the decline of air and water quality across the globe. 
 
 
-<img src="https://github.com/rwk506/terraberry/blob/master/images/triclosan_home.png" alt="Triclosan Home" width=300>
 
+<a name="Palm"/>
+<h5>Documentation</h5>
 
 <img src="https://github.com/rwk506/terraberry/blob/master/images/palmoil_home_full.jpeg" alt="Palm Oil Home" width=800>
 
@@ -89,7 +96,40 @@ The collection of materials such as silicates, palm oil, and triclosan are damag
 
 <img src="https://github.com/rwk506/terraberry/blob/master/images/palmoil_fires.gif" alt="Palm Oil Info3" width=800>
 
-Our infographics present facts for the consumer to interpret. Whenever possible, we include interactive data from NASA satellites. Our goal is to engage the consumer as much as possible so that they can make the most educated choices while purchasing products.
+
+
+
+
+<a name="Sili"/>
+<h5>Documentation</h5>
+
+(In progress...)
+
+
+<a name="Tri"/>
+<h5>Documentation</h5>
+
+<img src="https://github.com/rwk506/terraberry/blob/master/images/triclosan_home.png" alt="Triclosan Home" width=300>
+
+
+
+<a name="Irrad"/>
+<h5>Documentation</h5>
+
+(In progress...)
+
+
+
+<a name="Additives"/>
+<h5>Documentation</h5>
+
+(In progress...)
+
+
+
+
+
+
 
 
 
