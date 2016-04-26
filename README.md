@@ -129,7 +129,7 @@ If the user has Python and the necessary packages installed, no further installa
 
 <a name="Resources"/>
 <h4>Resources</h4>
-The following websites and databases were used in this project:
+The following websites and databases were used in this project:<br />
 [Android Studio](http://developer.android.com/tools/studio/index.html)<br />
 [Android Barcode Reader](https://github.com/zxing/zxing)<br />
 [Environmental Working Group](http://www.ewg.org/)<br />
