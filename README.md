@@ -74,7 +74,7 @@ At the bottom of the screen, the user has easy access to keep on scanning!
 <a name="Impact"/>
 <h4>Environmental Impact</h4>
 
-The collection of materials such as silicates and palm oil are damaging to ecological systems, affecting habitats of endangered species as well as contributing in the decline of air and water quality across the globe. 
+The collection of materials such as silicates, palm oil, and triclosan are damaging to ecological systems, affecting habitats of endangered species as well as contributing in the decline of air and water quality across the globe. 
 
 
 <img src="https://github.com/rwk506/terraberry/blob/master/images/triclosan_home.png" alt="Triclosan Home" width=300>
@@ -87,10 +87,9 @@ The collection of materials such as silicates and palm oil are damaging to ecolo
 
 <img src="https://github.com/rwk506/terraberry/blob/master/images/palmoil_orangs.jpeg" alt="Palm Oil Info2" width=800>
 
-
 <img src="https://github.com/rwk506/terraberry/blob/master/images/palmoil_fires.gif" alt="Palm Oil Info3" width=800>
 
-
+Our infographics present facts for the consumer to interpret. Whenever possible, we include interactive data from NASA satellites. Our goal is to engage the consumer as much as possible so that they can make the most educated choices while purchasing products.
 
 
 
