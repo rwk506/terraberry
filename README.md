@@ -80,13 +80,13 @@ The collection of materials such as silicates and palm oil are damaging to ecolo
 <img src="https://github.com/rwk506/terraberry/blob/master/images/triclosan_home.png" alt="Triclosan Home" width=300>
 
 
-<img src="https://github.com/rwk506/terraberry/blob/master/images/palmoil_home_full.jpeg" alt="Palm Oil Home" width=750>
+<img src="https://github.com/rwk506/terraberry/blob/master/images/palmoil_home_full.jpeg" alt="Palm Oil Home" width=800>
 
 
-<img src="https://github.com/rwk506/terraberry/blob/master/images/palmoil_info1.png" alt="Palm Oil Info" width=300><img src="https://github.com/rwk506/terraberry/blob/master/images/palmoil_info2.png" alt="Palm Oil Info2" width=300>
+<img src="https://github.com/rwk506/terraberry/blob/master/images/paloil_deforestation.jpeg" alt="Palm Oil Info" width=300><img src="https://github.com/rwk506/terraberry/blob/master/images/palmoil_orangs.jpeg" alt="Palm Oil Info2" width=300>
 
 
-<img src="https://github.com/rwk506/terraberry/blob/master/images/palmoil_fires.gif" alt="Palm Oil Info3" width=300>
+<img src="https://github.com/rwk506/terraberry/blob/master/images/palmoil_fires.gif" alt="Palm Oil Info3" width=800>
 
 
 
