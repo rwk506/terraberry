@@ -2,11 +2,11 @@
 
 <h3>Defending the health of the Earth one conscientious decision at a time.</h3>
 
-Human-powered destruction of the Earth will continue to ravage our planet--unless we take a more active role in halting it. *terraberry* enables people to make informed choices conveniently and conscienciously in their daily lives to promote a healthier Earth, with _EVERY_ purchase, _EVERY_ day.
+Human-powered destruction of the Earth will continue to ravage our planet--unless we take a more active role in halting it. **terraberry** enables people to make informed choices conveniently and conscienciously in their daily lives to promote a healthier Earth, with _EVERY_ purchase, _EVERY_ day.
 
-The code presented here is the python backend of the *terraberry* application, which facilitates sustainable and habitual lifestyle choices to improve the health of the Earth. *terraberry* allows users to scan the barcode of an item to determine if ingredients are harmful to the environment while in the store, providing consumers with the ability to make choices to reduce the detrimental impact their everyday purchases on the Earth.
+The code presented here is the python backend of the **terraberry** application, which facilitates sustainable and habitual lifestyle choices to improve the health of the Earth. **terraberry** allows users to scan the barcode of an item to determine if ingredients are harmful to the environment while in the store, providing consumers with the ability to make choices to reduce the detrimental impact their everyday purchases on the Earth.
 
-This development is brought to you by the first place finish *terraberry* team via the [Space Apps Orlando](https://2016.spaceappschallenge.org/challenges/tech/bring-your-own-solution/projects/terraberry-defend-the-earth) as part of the [Bring Your Own Solution Challenge](https://2016.spaceappschallenge.org/challenges/tech/bring-your-own-solution/).
+This development is brought to you by the first place finish **terraberry** team via the [Space Apps Orlando](https://2016.spaceappschallenge.org/challenges/tech/bring-your-own-solution/projects/terraberry-defend-the-earth) as part of the [Bring Your Own Solution Challenge](https://2016.spaceappschallenge.org/challenges/tech/bring-your-own-solution/).
 
 <br />
 
