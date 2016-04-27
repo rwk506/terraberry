@@ -1,4 +1,3 @@
-![terraberry]()
 <a href="http://terraberryapp.com/">
    <img src="https://github.com/rwk506/terraberry/blob/master/images/logo.png" alt="terraberry">
 </a>
@@ -10,7 +9,7 @@ Human-powered destruction of the Earth will continue to ravage our planet--unles
 
 The code presented here is the python backend of the **terraberry** application, which facilitates sustainable and habitual lifestyle choices to improve the health of the Earth. **terraberry** allows users to scan the barcode of an item to determine if ingredients are harmful to the environment while in the store, providing consumers with the ability to make choices to reduce the detrimental impact their everyday purchases on the Earth.
 
-This ![development](http://terraberryapp.com/) is brought to you by the first place finish **terraberry** team via the [Space Apps Orlando](https://2016.spaceappschallenge.org/challenges/tech/bring-your-own-solution/projects/terraberry-defend-the-earth) as part of the [Bring Your Own Solution Challenge](https://2016.spaceappschallenge.org/challenges/tech/bring-your-own-solution/).
+This [development](http://terraberryapp.com/) is brought to you by the first place finish **terraberry** team via the [Space Apps Orlando](https://2016.spaceappschallenge.org/challenges/tech/bring-your-own-solution/projects/terraberry-defend-the-earth) as part of the [Bring Your Own Solution Challenge](https://2016.spaceappschallenge.org/challenges/tech/bring-your-own-solution/).
 
 <br />
 
