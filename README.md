@@ -1,12 +1,12 @@
 ![terraberry](https://github.com/rwk506/terraberry/blob/master/images/logo.png)
 
-<h3>Defending the health of the Earth one conscientious choice at a time.</h3>
+<h3>Defending the health of the Earth one conscientious decision at a time.</h3>
 
-Human-powered destruction of the Earth will continue to ravage our planet -- unless we take more steps to stop it. terraberry enables people to make better choices conveniently and conscienciously in their daily lives to defend and promote a healthier Earth - EVERY purchase, EVERY day.
+Human-powered destruction of the Earth will continue to ravage our planet--unless we take a more active role in halting it. *terraberry* enables people to make informed choices conveniently and conscienciously in their daily lives to promote a healthier Earth, with _EVERY_ purchase, _EVERY_ day.
 
-The code presented here is the python backend of the terraberry application, which facilitates sustainable and habitual lifestyle choices to improve the health of the Earth. terraberry allows users to scan the barcode of an item in store, determine if ingredients are harmful to the environment, and provides consumers with the ability to make choices to reduce the detrimental impact on the Earth through their everyday purchases.
+The code presented here is the python backend of the *terraberry* application, which facilitates sustainable and habitual lifestyle choices to improve the health of the Earth. *terraberry* allows users to scan the barcode of an item to determine if ingredients are harmful to the environment while in the store, providing consumers with the ability to make choices to reduce the detrimental impact their everyday purchases on the Earth.
 
-This development is brought to you by the first place finish terraberry team via the [Space Apps Orlando](https://2016.spaceappschallenge.org/challenges/tech/bring-your-own-solution/projects/terraberry-defend-the-earth) as part of the [Bring Your Own Solution Challenge](https://2016.spaceappschallenge.org/challenges/tech/bring-your-own-solution/).
+This development is brought to you by the first place finish *terraberry* team via the [Space Apps Orlando](https://2016.spaceappschallenge.org/challenges/tech/bring-your-own-solution/projects/terraberry-defend-the-earth) as part of the [Bring Your Own Solution Challenge](https://2016.spaceappschallenge.org/challenges/tech/bring-your-own-solution/).
 
 <br />
 
@@ -196,9 +196,9 @@ Compatible with iPython Notebook (use %run [name]).
 <a name="Other"/>
 <h4>Other Information</h4>
 
-Contributors: RWK, TDM, KA, WM <br />
+Contributors: RWK, TD, KA, WM <br />
 Contact: May be made through GitHub. <br />
-About the creators: We are a group of PhD Astro students at the University of Florida. We look at all sorts of stars and galaxies in the Universe across space and time. But, we know that nothing is as important as our Earth. We are passionate about improving the well-being of our planet and providing people the power to make everyday choices to make the world cleaner and healthier.
+About the creators: We are a group of PhD Astro students at the University of Florida. We look at all sorts of stars and galaxies in the Universe across space and time. However, we know that nothing is as important as our Earth. We are passionate about improving the well-being of our planet and providing people with the power to make everyday choices that make the world cleaner and healthier.
 <br /><br />
 
 
