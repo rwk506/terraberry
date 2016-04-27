@@ -11,7 +11,7 @@ This development is brought to you by the first place finish *terraberry* team v
 <br />
 
 <h4>Table of Contents</h4>
-[Summary](#Summary)<br />
+[Summary](#Summary)<br /> 
 [Example](#Example)<br />
 [Environmental Impact](#Impact)<br />
 [Documentation](#Docs)<br />
