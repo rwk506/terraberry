@@ -68,8 +68,8 @@ Our infographics present facts for the consumer to interpret. Whenever possible,
 [Palm Oil](#Palm)<br />
 [Silicates](#Sili)<br />
 [Triclosan](#Tri)<br />
-[Irradiated Materials](#Irrad)<br />
-[Additives](#Additives)<br />
+[Formaldehyde](#Formel)<br />
+[Phthalates](#Phthalates)<br />
 
 The collection of materials such as silicates, palm oil, and triclosan are damaging to ecological systems, affecting habitats of endangered species as well as contributing in the decline of air and water quality across the globe. 
 
@@ -104,15 +104,15 @@ The collection of materials such as silicates, palm oil, and triclosan are damag
 
 
 
-<a name="Irrad"/>
-<h5>Irradiated Materials</h5>
+<a name="Formel"/>
+<h5>Formaldehyde</h5>
 
 (In progress...)
 
 
 
-<a name="Additives"/>
-<h5>Additives</h5>
+<a name="Phthalates"/>
+<h5>Phthalates</h5>
 
 (In progress...)
 
