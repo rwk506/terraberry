@@ -30,10 +30,7 @@ This development is brought to you by the first place finish **terraberry** team
    <img src="https://github.com/rwk506/terraberry/blob/master/images/inboxlogo.png" alt="Email" width="50" height="50">
 </a>
 
-
 <br /><br />
-
-
 
 <a name="Summary"/>
 <h4>Summary</h4>
@@ -41,9 +38,6 @@ This development is brought to you by the first place finish **terraberry** team
 Our project enables citizens to use their smartphones when making a purchase to determine whether harmful materials are present in a product. On a daily basis, users can conveniently make informed choices about the products they are buying, while educating themselves about the devastating effects of materials like palm oil, silicates, and triclosan on the well-being of the Earth.
 
 The application will be able to read the barcode of an item, whether food or household. While in a store, a user can whip out their phone, scan an item they are interested in purchasing, and our app informs the user whether the harmful ingredients of palm oil, silicates, or triclosan are present in the item. We also incorporate an informative component to educate users on the world-wide effects of these damaging ingredients. Our product will foster awareness and grant consumers the opportunity to make a conscientious choice about how their purchases affect the environment.
-
-
-
 
 <br /> <br /><br />
 
@@ -62,12 +56,6 @@ At the bottom of the screen, the user has easy access to keep on scanning!
 
 
 Our infographics present facts for the consumer to interpret. Whenever possible, we include interactive data from NASA satellites. Our goal is to engage the consumer as much as possible so that they can make the most educated choices while purchasing products.
-
-
-
-
-
-
 
 <br /> <br /><br />
 
