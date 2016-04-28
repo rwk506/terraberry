@@ -56,7 +56,7 @@ Our android app will be available for download on the play store, with the icon 
 
 Once scanned, our app takes the barcode, uses the UPC to find the product name and ingredients, and checks whether materials that can devastate the environment are present. The results are shown to the use, as seen below for Clorox Anywhere Hard Surface Spray (left) and Cheez Its (right).
 
-<img src="https://github.com/rwk506/terraberry/blob/master/images/results_clorox.jpeg" alt="Clorox terraberry Results" width=300><img src="https://github.com/rwk506/terraberry/blob/master/images/results_cheezit.jpeg" alt="Cheez It terraberry Results" width=300>
+<img src="https://github.com/rwk506/terraberry/blob/master/images/results_larabar.jpeg" alt="Larabar terraberry Results" width=300><img src="https://github.com/rwk506/terraberry/blob/master/images/results_cheezit.jpeg" alt="Cheez It terraberry Results" width=300>
 
 At the bottom of the screen, the user has easy access to keep on scanning!
 
