@@ -96,7 +96,7 @@ For each, we provide infographics to present facts for the consumer to interpret
 
 <img src="https://github.com/rwk506/terraberry/blob/master/images/palmoil_fires.gif" alt="Palm Oil Info3" width=500>
 
-
+Forest fires set to clear vegetation for oil palm plantations release 0.81-2.57 gigaton of carbon into the atmosphere. This figure shows the number of forest fires (in red) in the Southeast Asian region in 2015 as seen by the NASA MODIS satellite.
 
 
 
@@ -106,7 +106,8 @@ For each, we provide infographics to present facts for the consumer to interpret
 <h5>Silicates</h5>
 
 <img src="https://github.com/rwk506/terraberry/blob/master/images/silicates_home_full.jpeg" alt="Silicates" width=500>
-Soluble silicates can be found as an ingredient in household cleaning products. Improper disposal can raise the alkalinity of water which can be harmful to aquatic life. When inhaled, silicates are a known carcinogen and can pose problems for air quality. 
+
+Silicates are found as an ingredient in household cleaning products. Improper disposal can raise the alkalinity of water which can be harmful to aquatic life. When inhaled, silicates are a known carcinogen and can pose problems for air quality. 
 
 
 
@@ -116,6 +117,7 @@ Soluble silicates can be found as an ingredient in household cleaning products. 
 <h5>Triclosan</h5>
 
 <img src="https://github.com/rwk506/terraberry/blob/master/images/triclosan_home_full.jpeg" alt="Triclosan" width=500>
+
 Triclosan is found in many personal care and household items as an antibacterial agent. It is only partially removed during the water sanitation process and triclosan byproducts accumulate in aquatic ecosystems. Triclosan is highly toxic to the algae population and has been detected in fish and shellfish. Higher aquatic organisms are exposed to triclosan by feeding on algae. 
 
 
