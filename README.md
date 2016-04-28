@@ -54,19 +54,22 @@ Our android app will be available for download on the play store, with the icon 
 
 <img src="https://github.com/rwk506/terraberry/blob/master/images/start_screen.jpeg" alt="terraberry Start Screen" width=750>
 
-Once scanned, our app takes the barcode, uses the UPC to find the product name and ingredients, and checks whether materials that can devastate the environment are present. The results are shown to the use, as seen below for Larabar Blueberry Muffin (left) and Cheez Its (right).
+Once scanned, our app takes the barcode, uses the UPC to find the product name and ingredients, and checks whether materials that can devastate the environment are present. The front end is built in Android Studio and communicates with the Python backend here, which determines if certain materials are contained in the ingredients list of the product. The results are shown to the user, as seen below for Larabar Blueberry Muffin (left) and Cheez Its (right).
 
 <img src="https://github.com/rwk506/terraberry/blob/master/images/results_larabar.jpeg" alt="Larabar terraberry Results" width=300><img src="https://github.com/rwk506/terraberry/blob/master/images/results_cheezit.jpeg" alt="Cheez It terraberry Results" width=300>
 
 At the bottom of the screen, the user has easy access to keep on scanning!
 
 
-Our infographics present facts for the consumer to interpret. Whenever possible, we include interactive data from NASA satellites. Our goal is to engage the consumer as much as possible so that they can make the most educated choices while purchasing products.
 
 <br /> <br /><br />
 
 <a name="Impact"/>
 <h4>Environmental Impact</h4>
+
+The collection of materials such as silicates, palm oil, and triclosan are damaging to ecological systems, affecting habitats of endangered species as well as contributing in the decline of air and water quality across the globe. We desire to inform consumers and provide them with the power to make educated decisions about the products. We provide the necessary information on effects of materials to the environment, which users can take into account as they make their everday purchases.
+
+For the initial development of terraberry, we currently focus on the following substances:
 
 - [Palm Oil](#Palm)<br />
 - [Silicates](#Sili)<br />
@@ -74,7 +77,7 @@ Our infographics present facts for the consumer to interpret. Whenever possible,
 - [Formaldehyde](#Formel)<br />
 - [Phthalates](#Phthalates)<br />
 
-The collection of materials such as silicates, palm oil, and triclosan are damaging to ecological systems, affecting habitats of endangered species as well as contributing in the decline of air and water quality across the globe. 
+For each, we provide infographics to present facts for the consumer to interpret. Whenever possible, we include interactive data from NASA satellites. Our goal is to engage the consumer as much as possible so that they can make the most educated choices while purchasing products.
 
 
 
