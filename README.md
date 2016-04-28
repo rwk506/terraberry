@@ -97,6 +97,8 @@ The collection of materials such as silicates, palm oil, and triclosan are damag
 
 
 
+
+<br />
 <a name="Sili"/>
 <h5>Silicates</h5>
 
@@ -106,6 +108,7 @@ The collection of materials such as silicates, palm oil, and triclosan are damag
 
 
 
+<br />
 <a name="Tri"/>
 <h5>Triclosan</h5>
 
@@ -115,6 +118,8 @@ The collection of materials such as silicates, palm oil, and triclosan are damag
 
 
 
+
+<br />
 <a name="Formel"/>
 <h5>Formaldehyde</h5>
 
@@ -122,6 +127,10 @@ The collection of materials such as silicates, palm oil, and triclosan are damag
 
 
 
+
+
+
+<br />
 <a name="Phthalates"/>
 <h5>Phthalates</h5>
 
