@@ -221,6 +221,6 @@ Contact: May be made through GitHub. <br />
 About the creators: We are a group of PhD Astro students at the University of Florida. We look at all sorts of stars and galaxies in the Universe across space and time. However, we know that nothing is as important as our Earth. We are passionate about improving the well-being of our planet and providing people with the power to make everyday choices that make the world cleaner and healthier.
 <br />
 
-<img src="https://github.com/rwk506/terraberry/blob/master/images/logo_small.png" alt="terraberry" width=500 align="middle">
+<img src="https://github.com/rwk506/terraberry/blob/master/images/logo_small.png" alt="terraberry" width=200 align="middle">
 
 <br />
