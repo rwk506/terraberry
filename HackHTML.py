@@ -2,9 +2,10 @@
 # coding: utf-8
 
 
-###############################################################
-######### Authored by: Team Hush Yuppies @ UF Astro   #########
-###############################################################
+######################################################
+######### Authored by: the terraberry team   #########
+######################################################
+### Latest update: 4.27.2016 
 
 
 import os
@@ -13,9 +14,6 @@ import urllib2, cookielib
 from urllib2 import Request
 import re, string
 import operator
-import image
-from IPython.display import Image, display
-
 
 
 def compare_to_chemicals(ingd):
