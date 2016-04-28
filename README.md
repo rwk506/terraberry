@@ -52,11 +52,11 @@ The application will be able to read the barcode of an item, whether food or hou
 
 Our android app will be available for download on the play store, with the icon seen in the left image below. The startup is shown in the middle image below, with immediate access to the bar code seen on right.
 
-<img src="https://github.com/rwk506/terraberry/blob/master/images/start_screen.png" alt="terraberry Start Screen" width=800>
+<img src="https://github.com/rwk506/terraberry/blob/master/images/start_screen.png" alt="terraberry Start Screen" width=750>
 
 Once scanned, our app takes the barcode, uses the UPC to find the product name and ingredients, and checks whether materials that can devastate the environment are present. The results are shown to the use, as seen below for Clorox Anywhere Hard Surface Spray (left) and Cheez Its (right).
 
-<img src="https://github.com/rwk506/terraberry/blob/master/images/results_clorox.png" alt="Clorox terraberry Results" width=300><img src="https://github.com/rwk506/terraberry/blob/master/images/results_cheezit.jpg" alt="Cheez It terraberry Results" width=300>
+<img src="https://github.com/rwk506/terraberry/blob/master/images/results_clorox.jpeg" alt="Clorox terraberry Results" width=300><img src="https://github.com/rwk506/terraberry/blob/master/images/results_cheezit.jpeg" alt="Cheez It terraberry Results" width=300>
 
 At the bottom of the screen, the user has easy access to keep on scanning!
 
@@ -81,14 +81,17 @@ The collection of materials such as silicates, palm oil, and triclosan are damag
 <a name="Palm"/>
 <h5>Palm Oil</h5>
 
-<img src="https://github.com/rwk506/terraberry/blob/master/images/palmoil_home_full.jpeg" alt="Palm Oil Home" width=800>
+<img src="https://github.com/rwk506/terraberry/blob/master/images/palmoil_home_full.jpeg" alt="Palm Oil Home" width=500>
 
 
-<img src="https://github.com/rwk506/terraberry/blob/master/images/palmoil_deforestation.jpeg" alt="Palm Oil Info" width=800>
+<img src="https://github.com/rwk506/terraberry/blob/master/images/palmoil_deforestation.jpeg" alt="Palm Oil Info" width=500>
 
-<img src="https://github.com/rwk506/terraberry/blob/master/images/palmoil_orangs.jpeg" alt="Palm Oil Info2" width=800>
 
-<img src="https://github.com/rwk506/terraberry/blob/master/images/palmoil_fires.gif" alt="Palm Oil Info3" width=800>
+<img src="https://github.com/rwk506/terraberry/blob/master/images/palmoil_orangs.jpeg" alt="Palm Oil Info2" width=500>
+
+
+
+<img src="https://github.com/rwk506/terraberry/blob/master/images/palmoil_fires.gif" alt="Palm Oil Info3" width=500>
 
 
 
@@ -97,13 +100,18 @@ The collection of materials such as silicates, palm oil, and triclosan are damag
 <a name="Sili"/>
 <h5>Silicates</h5>
 
-(In progress...)
+<img src="https://github.com/rwk506/terraberry/blob/master/images/silicates_home_full.jpeg" alt="Silicates" width=500>
+
+
+
 
 
 <a name="Tri"/>
 <h5>Triclosan</h5>
 
-<img src="https://github.com/rwk506/terraberry/blob/master/images/triclosan_home.png" alt="Triclosan Home" width=300>
+<img src="https://github.com/rwk506/terraberry/blob/master/images/triclosan_home_full.jpeg" alt="Triclosan" width=500>
+
+
 
 
 
