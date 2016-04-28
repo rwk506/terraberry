@@ -23,13 +23,16 @@ def compare_to_chemicals(ingd):
     oils = np.loadtxt('./oils.txt', np.dtype({'names':['names'], 'formats':['S99']}) , delimiter='\n')
     silicates = np.loadtxt('./silicates.txt', np.dtype({'names':['names'], 'formats':['S99']}) , delimiter='\n')
     triclosan = np.loadtxt('./triclosan.txt', np.dtype({'names':['names'], 'formats':['S99']}) , delimiter='\n')
+    phals = np.loadtxt('./phthalates.txt', np.dtype({'names':['names'], 'formats':['S99']}) , delimiter='\n')
+    formeld = np.loadtxt('./formaldehyde.txt', np.dtype({'names':['names'], 'formats':['S99']}) , delimiter='\n')
     
-    YNlist = ['No', 'No', 'No']
+    YNlist = ['No', 'No', 'No', 'No', 'No']
     
-    for f, aliaslist in enumerate([oils, silicates, triclosan]):
+    for f, aliaslist in enumerate([oils, silicates, triclosan, phals, formeld]):
         ##### set up each ingredient entry as a list of words
         for j,ingred in enumerate(ingd):
             ing = ingred.lstrip(' ').split(' ')
+            #print ingred
             ##### set up each database check entry as a list of words
             for i,val in enumerate(aliaslist):
                 val[0] = val[0].replace(',', '')
@@ -38,17 +41,17 @@ def compare_to_chemicals(ingd):
                 switches = [0]*len(ing)   ### create "on/off" switches to represent no(0) and yes(1) for each word in ingredient list
                 for k, word in enumerate(full_list):
                     for m,sw in enumerate(ing):
-                        ind_ingred = ing[m].strip('[,-\".!?&\[\]\(\)\/\>\<]')
-                        #print ing, full_list, word, sw
-                        print re.findall(str(ind_ingred),str(word), re.IGNORECASE)
+                        ind_ingred = re.sub(r'[^\w]', '', ing[m])
                         if len(re.findall(str(ind_ingred),str(word), re.IGNORECASE))>0:
                             switches[m]=1  ## if ingredient word is a match, turn switch to yes
+                            break
                 if sum(switches)==len(switches):  ### if all words are present in an alias, then turn overall oil content to yes
                     YNlist[f] = 'Yes'
                   
-    chem = [r"Palm Oil present:"+'\t', r"Silicates present:"+'\t', r"Triclosan present:"+'\t']
+    chem = [r"Palm Oil present:"+'\t', r"Silicates present:"+'\t', r"Triclosan present:"+'\t', r"Phthalates present:"+'\t', r"Formaldehyde present:"+'\t']
     for i,res in enumerate(YNlist):
         print chem[i],res
+        
     return YNlist
 
 
@@ -208,6 +211,11 @@ content = lookup_barcode('041000022494')
 # Cheez It Cheese It Baked Snack Crackers, Mozzarella
 content = lookup_barcode('024100789177')
 
+# Nutella Hazelnut Spread With Cocoa
+content = lookup_barcode('0980089525')
+
+# Eden Eden, Organic Black Beans
+content = lookup_barcode('024182002539')
 
 
 
@@ -220,8 +228,16 @@ content = lookup_barcode('44600016832')
 # Anywhere Sanitizing Spray, 22 oz. Trigger Spray Bottle
 content = lookup_barcode('4460001683')
 
+# Softsoap Hand Soap Lavender & Chamomile
+content = lookup_barcode('074182292171')
 
+# Ultra Antibacterial Hand Soap Dishwashing Liquid, Orange Scent, 30 Ounce
+content = lookup_barcode('037000110880')
 
+# Red Devil  0694 Panel and Foam Adhesive, 10.1-Ounce
+content = lookup_barcode('075339013953')
 
+# Sally Hansen 5 Minute French Manicure White Tip Pen-Fine Point, 0.16 Fluid Ounce
+content = lookup_barcode('074170310009')
 
 
