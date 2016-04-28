@@ -52,7 +52,7 @@ The application will be able to read the barcode of an item, whether food or hou
 
 Our android app will be available for download on the play store, with the icon seen in the left image below. The startup is shown in the middle image below, with immediate access to the bar code seen on right.
 
-<img src="https://github.com/rwk506/terraberry/blob/master/images/start_screen.png" alt="terraberry Start Screen" width=750>
+<img src="https://github.com/rwk506/terraberry/blob/master/images/start_screen.jpeg" alt="terraberry Start Screen" width=750>
 
 Once scanned, our app takes the barcode, uses the UPC to find the product name and ingredients, and checks whether materials that can devastate the environment are present. The results are shown to the use, as seen below for Clorox Anywhere Hard Surface Spray (left) and Cheez Its (right).
 
