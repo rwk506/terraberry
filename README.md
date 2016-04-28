@@ -128,7 +128,9 @@ Triclosan is found in many personal care and household items as an antibacterial
 <a name="Formel"/>
 <h5>Formaldehyde</h5>
 
-(In progress...)
+<img src="https://github.com/rwk506/terraberry/blob/master/images/formal_home_full.jpeg" alt="Formaldehyde" width=500>
+
+Formaldehyde is used as a sterilizing agent and preservative in food, cosmetics, and pesticides. It is a volatile organic compound that can produce ground level ozone, a pollutant damaging to sensitive organisms and ecosystems. Repeated human exposure to formaldehyde can trigger breathing problems such as asthma and bronchitis.
 
 
 
@@ -139,7 +141,9 @@ Triclosan is found in many personal care and household items as an antibacterial
 <a name="Phthalates"/>
 <h5>Phthalates</h5>
 
-(In progress...)
+<img src="https://github.com/rwk506/terraberry/blob/master/images/phthalates_home_full.jpeg" alt="Phthalates" width=500>
+
+Phthalates are commonly found in plastics and can be released into the environment during the production, processing, and disposal of an item. The breakdown of phthalates in waste seeps into sewage sludge and the soil. Accumulation of phthalates is found in animal tissue. It also reported as a particulate and vapor in the atmosphere, affecting air quality.
 
 
 
