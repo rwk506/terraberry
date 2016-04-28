@@ -32,6 +32,9 @@ This [development](http://terraberryapp.com/) is brought to you by the first pla
 <a href="mailto:terraberry@gmail.com?subject=terraberry">
    <img src="https://github.com/rwk506/terraberry/blob/master/images/inboxlogo.png" alt="Email" width="50" height="50">
 </a>
+<a href="https://www.youtube.com/channel/UCYP8gfejgcL2akZ61THMvwQ">
+   <img src="https://github.com/rwk506/terraberry/blob/master/images/youtubelogo.png" alt="Email" width="50" height="50">
+</a>
 
 <br /><br />
 
