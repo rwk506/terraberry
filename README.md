@@ -81,6 +81,7 @@ For each, we provide infographics to present facts for the consumer to interpret
 
 
 
+<br />
 <a name="Palm"/>
 <h5>Palm Oil</h5>
 
@@ -148,7 +149,8 @@ Phthalates are commonly found in plastics and can be released into the environme
 
 
 
-
+<br />
+<sup>We note that the levels of silicates, triclosan, formaldehyde, etc. in products may be safe for humans in small, regulated doses. However, with millions and billions of people across the world using products with these harmful materials, the cumulative effect on the health of the planet can be extremely damaging.</sup>
 
 
 
